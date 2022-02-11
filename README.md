@@ -3,8 +3,8 @@ A list of common Solidity optimization tips and myths.
 
 ## Table of contents
   - [Tips](#tips)
-    - [Operators](#operators)
-    - [Compiler](#compiler)
+    - [Operators](#-operators)
+    - [Compiler](#-compiler)
   - [Myths](#myths)
 
 ## Tips
